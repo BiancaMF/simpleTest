@@ -14,6 +14,5 @@ public class Calcs {
     public void alwaysFail1()
     {
         Assert.assertEquals(1, 2);
-        
     }
 }
